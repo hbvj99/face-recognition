@@ -2,7 +2,7 @@
 Live human-face recognition with OpenCV using Haar Cascade Classifiers; frontal_face dataset and LBPH Algorithm, works with small computing devices.
 
 ## How to run?
-- Run ```face_add.py``` to genrate face samples, add id/name
+- Run ```face_add.py``` to genrate face samples, add id
 - Train the sample images using ```face_train.py```
 - Run facial recogniton script with ```facial_recognition.py```
 - Control confidence/success level in ```face_recognition``` when face is detected using LBPH
