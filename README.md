@@ -1,4 +1,4 @@
-# facial-recongnition
+# face-recongnition
 Live human-face recognition with OpenCV using Haar Cascade Classifiers; frontal_face dataset and LBPH Algorithm, works with small computing devices.
 
 ## How to run?
