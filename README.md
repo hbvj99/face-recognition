@@ -7,12 +7,15 @@ Live human-face recognition with OpenCV using Haar Cascade Classifiers; frontal_
 - Run facial recogniton script with ```facial_recognition.py```
 - Control confidence/success level in ```face_recognition``` when face is detected using LBPH
 - Edit/add id names in ```usr_id_label``` in facial_recognition.py
-- Your trained data is located in ```train>data.yml```
+
+## Directory
+- Face images are stored inside images
+- Trained data is located in ```train>data.yml```
 
 ## Requirement
  - OpenCV, install using ```pip install opencv-contrib-python```
 
-# References
+## References
 - LBPH<a href="https://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html#local-binary-patterns-histograms"> docs</a></a> compressive guide. Sample code is in C++, you might be interested.
 
 - <a href="https://docs.opencv.org/3.3.0/d7/d8b/tutorial_py_face_detection.html">Haar-cascade Detection</a>
