@@ -7,6 +7,7 @@ Live human-face recognition with OpenCV using Haar Cascade Classifiers; frontal_
 - Run facial recogniton script with ```facial_recognition.py```
 - Control confidence/success level in ```face_recognition``` when face is detected using LBPH
 - Edit/add id names in ```usr_id_label``` in facial_recognition.py
+- Your trained data is located in ```train>data.yml```
 
 ## Requirement
  - OpenCV, install using ```pip install opencv-contrib-python```
