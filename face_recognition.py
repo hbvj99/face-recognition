@@ -26,7 +26,7 @@ font = cv2.FONT_HERSHEY_SIMPLEX = 2  # Font
 usr_id = 0
 
 # User id label name
-usr_id_label = ['Vijay', 'Swaphnil', 'Dipesh', 'Unknown']
+usr_id_label = ['user_0', 'user_1', 'user_2', 'user_3']
 
 # Initialize and capture video frame
 live_cam = cv2.VideoCapture(0)
