@@ -1,13 +1,3 @@
-"""
-    File name: face_add.py
-    Course Module: CU6051NA
-    Author: Vijay Pathak
-    Description: A basic face recognition program using OpenCV, Haar cascade, LBPH algorithm
-    Date created: 31/12/2018
-    Date last modified: 02/09/2019
-    Python Version: 3.7.1
-"""
-
 # Import libraries
 import os
 import cv2
